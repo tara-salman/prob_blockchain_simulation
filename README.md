@@ -4,9 +4,9 @@ This repo is for probabilstic blockchain paper
 
 Tara Salman, Raj Jain, and Lav Gupta, "Probabilistic Blockchains: A Blockchain Paradigm for Collaborative Decision-Making", in IEEE 9th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), New York, NY, 2018, https://www.cse.wustl.edu/~jain/papers/pbc_uem.htm.
 
-paper directory is the paper download
+paper directory for the paper download
 
-Datasets directory is for the dataset used
+Datasets directory is for the dataset used in the paper
 
 Figures is for the generated figures to be used in the paper 
 
